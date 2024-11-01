@@ -1,0 +1,29 @@
+.heading{
+    margin-top: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.post{
+    padding:15px;
+    border-radius: 10px;
+    background: lightgrey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title{
+    font-weight: bold;
+    margin: 10px;
+}
+
+.deleteButton{
+    background: red;
+    padding: 10px;
+    color:white;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.description{
+    margin: 10px;
+}
